@@ -1,0 +1,16 @@
+.contact h1
+{
+   margin: 0;
+   padding: 0 0 20px;
+   color: #efed40;
+   text-align:center;
+   background-color:skyblue;   
+}
+
+
+
+.name p {
+	font-family:sans-serif;
+	padding-left:100px;
+    padding-top:10px;
+	}
